@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3904-smallest-stable-index-ii](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [3904-smallest-stable-index-ii](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
