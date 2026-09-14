@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0189-rotate-array) |
+| [0836-rectangle-overlap](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0836-rectangle-overlap) |
 ## Design
 |  |
 | ------- |
@@ -98,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0796-rotate-string) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
