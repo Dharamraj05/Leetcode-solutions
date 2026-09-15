@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0067-add-binary](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0344-reverse-string](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0344-reverse-string) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0836-rectangle-overlap](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0836-rectangle-overlap) |
 ## Design
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0067-add-binary) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Recursion
 |  |
@@ -110,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
