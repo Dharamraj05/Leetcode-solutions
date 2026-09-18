@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0567-permutation-in-string](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sliding Window
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## String Matching
 |  |
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Bit Manipulation
 |  |
