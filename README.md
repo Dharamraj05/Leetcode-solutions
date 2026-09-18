@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0189-rotate-array](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Dynamic Programming
