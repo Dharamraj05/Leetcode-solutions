@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0208-implement-trie-prefix-tree](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0567-permutation-in-string](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0567-permutation-in-string) |
+| [1096-brace-expansion-ii](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0796-rotate-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1096-brace-expansion-ii](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1096-brace-expansion-ii](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
 |  |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## String Matching
@@ -175,4 +179,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/3525-find-x-value-of-array-ii) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
