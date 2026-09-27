@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0344-reverse-string](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0344-reverse-string) |
+| [0415-add-strings](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0796-rotate-string) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0189-rotate-array) |
+| [0415-add-strings](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0415-add-strings) |
 | [0836-rectangle-overlap](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0415-add-strings) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3498-reverse-degree-of-a-string](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Recursion
