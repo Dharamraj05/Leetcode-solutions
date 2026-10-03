@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0178-rank-scores](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0178-rank-scores) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0183-customers-who-never-order) |
+| [0184-department-highest-salary](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0184-department-highest-salary) |
 ## Segment Tree
 |  |
 | ------- |
