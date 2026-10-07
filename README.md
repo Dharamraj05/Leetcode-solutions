@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0414-third-maximum-number) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0389-find-the-difference) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [1096-brace-expansion-ii](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/1096-brace-expansion-ii) |
@@ -255,9 +258,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0190-reverse-bits) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
