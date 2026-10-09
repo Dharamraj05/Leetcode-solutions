@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1834-single-threaded-cpu](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/1834-single-threaded-cpu) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [1096-brace-expansion-ii](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1834-single-threaded-cpu](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/1834-single-threaded-cpu) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## String Matching
 |  |
@@ -279,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/0169-majority-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1834-single-threaded-cpu](https://github.com/Dharamraj05/Leetcode-solutions/tree/master/1834-single-threaded-cpu) |
 <!---LeetCode Topics End-->
